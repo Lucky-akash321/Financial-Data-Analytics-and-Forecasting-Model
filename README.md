@@ -13,6 +13,10 @@ Financial data analytics and forecasting are essential tools in the finance indu
 - **Forecasting**: Create predictive models to estimate future trends, such as stock prices or economic indicators.
 - **Model Evaluation**: Assess the accuracy and performance of the forecasting models.
 
+
+![](https://github.com/Lucky-akash321/Financial-Data-Analytics-and-Forecasting-Model/blob/main/Screenshot-2022-11-02-at-17.03.04.png)
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
